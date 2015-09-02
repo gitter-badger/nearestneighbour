@@ -4,6 +4,8 @@ Section Links : [Construction](#construction) , [Execution](#execution) , [Examp
 
 # Construction
 
+[![Join the chat at https://gitter.im/panchishin/nearestneighbour](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/panchishin/nearestneighbour?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Create a NearestNeighbour
 Create a default NearestNeighbour calculator from the constructor like so:
 ```js
